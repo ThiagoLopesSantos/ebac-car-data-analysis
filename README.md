@@ -119,7 +119,7 @@ Durante o webinar da EBAC, desenvolvi e pratiquei as seguintes competências:
 ---
 
 ## 🔗 Links
-- 📘 [Notebook no GitHub](./notebook.ipynb)  
+- 📘 [Notebook no GitHub](./analiseCarros.ipynb)  
 - 💼 [Meu LinkedIn](www.linkedin.com/in/thiago-lopes-front-end)  
 
 ---
